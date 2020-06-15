@@ -1,2 +1,2 @@
-# -Alura---Introdu-o-JavaScript
+# -Alura---Introducao-JavaScript
 Curso de javaScript
